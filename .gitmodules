@@ -1,0 +1,9 @@
+[submodule "NKScriptsCreator"]
+	path = NKScriptsCreator
+	url = https://github.com/NivekNK/NKScriptsCreator.git
+[submodule "NKRuntimeSetSystem"]
+	path = NKRuntimeSetSystem
+	url = https://github.com/NivekNK/NKRuntimeSetSystem.git
+[submodule "NKFiniteStateMachine"]
+	path = NKFiniteStateMachine
+	url = https://github.com/NivekNK/NKFiniteStateMachine.git
